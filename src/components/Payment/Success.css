@@ -1,0 +1,25 @@
+.success-div{
+    
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .success-title{
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    outline-style: outset;
+    outline-color: rgb(0, 255, 200);
+    transition: 0.3s ease-in-out;
+    font-size: 25px;
+    align-items: flex-start;
+    justify-items: flex-start;
+    border-radius: 30px;
+    font-family: 'Abel', sans-serif;
+    
+  }
